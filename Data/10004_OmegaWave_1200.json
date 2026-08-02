@@ -1,0 +1,37 @@
+{
+  "ItemNumber": "10004",
+  "ItemName": "OmegaWave 1200",
+  "UPCCode": "800000000003",
+  "Tagline": "Fictitious premium wellness supplement.",
+  "Quantity": "90 Softgels",
+  "ServingSize": "1 Softgel",
+  "ServingsPerContainer": 90,
+  "SupplementFacts": [
+    {
+      "Ingredient": "Omega-3 Fish Oil",
+      "AmountPerServing": "1200 mg",
+      "PercentDV": "*"
+    },
+    {
+      "Ingredient": "EPA",
+      "AmountPerServing": "360 mg",
+      "PercentDV": "*"
+    },
+    {
+      "Ingredient": "DHA",
+      "AmountPerServing": "240 mg",
+      "PercentDV": "*"
+    }
+  ],
+  "OtherIngredients": [
+    "Vegetable Cellulose",
+    "Rice Flour",
+    "Silica"
+  ],
+  "Allergens": "Contains fish (OmegaWave only)",
+  "Directions": "Take one serving daily with food unless directed otherwise by a healthcare professional.",
+  "Caution": "Consult a healthcare professional before use if pregnant, nursing, taking medication, or have a medical condition.",
+  "Disclaimers": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+  "TrademarkRequirements": "All brand and product names are fictitious and may be used for demonstration purposes only.",
+  "Warnings": "Keep out of reach of children. Do not use if safety seal is broken."
+}
