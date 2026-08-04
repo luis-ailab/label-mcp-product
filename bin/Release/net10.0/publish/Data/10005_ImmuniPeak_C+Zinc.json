@@ -1,0 +1,32 @@
+{
+  "ItemNumber": "10005",
+  "ItemName": "ImmuniPeak C+Zinc",
+  "UPCCode": "800000000004",
+  "Tagline": "Fictitious premium wellness supplement.",
+  "Quantity": "60 Capsules",
+  "ServingSize": "2 Capsules",
+  "ServingsPerContainer": 30,
+  "SupplementFacts": [
+    {
+      "Ingredient": "Vitamin C",
+      "AmountPerServing": "1000 mg",
+      "PercentDV": "1111%"
+    },
+    {
+      "Ingredient": "Zinc",
+      "AmountPerServing": "15 mg",
+      "PercentDV": "136%"
+    }
+  ],
+  "OtherIngredients": [
+    "Vegetable Cellulose",
+    "Rice Flour",
+    "Silica"
+  ],
+  "Allergens": "None",
+  "Directions": "Take one serving daily with food unless directed otherwise by a healthcare professional.",
+  "Caution": "Consult a healthcare professional before use if pregnant, nursing, taking medication, or have a medical condition.",
+  "Disclaimers": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+  "TrademarkRequirements": "All brand and product names are fictitious and may be used for demonstration purposes only.",
+  "Warnings": "Keep out of reach of children. Do not use if safety seal is broken."
+}

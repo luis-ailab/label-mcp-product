@@ -1,0 +1,32 @@
+{
+  "ItemNumber": "10010",
+  "ItemName": "SleepHarmony PM",
+  "UPCCode": "800000000009",
+  "Tagline": "Fictitious premium wellness supplement.",
+  "Quantity": "60 Capsules",
+  "ServingSize": "2 Capsules",
+  "ServingsPerContainer": 30,
+  "SupplementFacts": [
+    {
+      "Ingredient": "Melatonin",
+      "AmountPerServing": "5 mg",
+      "PercentDV": "*"
+    },
+    {
+      "Ingredient": "L-Theanine",
+      "AmountPerServing": "100 mg",
+      "PercentDV": "*"
+    }
+  ],
+  "OtherIngredients": [
+    "Vegetable Cellulose",
+    "Rice Flour",
+    "Silica"
+  ],
+  "Allergens": "None",
+  "Directions": "Take one serving daily with food unless directed otherwise by a healthcare professional.",
+  "Caution": "Consult a healthcare professional before use if pregnant, nursing, taking medication, or have a medical condition.",
+  "Disclaimers": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+  "TrademarkRequirements": "All brand and product names are fictitious and may be used for demonstration purposes only.",
+  "Warnings": "Keep out of reach of children. Do not use if safety seal is broken."
+}
